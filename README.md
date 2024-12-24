@@ -2,20 +2,20 @@
 Bangun sistem parkir menggunakan .net 5 tanpa menggunakan ui, cukup mengunakan console. Dengan menggunakan sistem lot, tiap lot bisa muat 1 mobil dan 1 motor, tiap orang mendapatkan quota 1 lot. Terdapat jumlah total lot tertentu di setiap tempatnya.
 
 ### Check-In
-i.Semua kendaraan bebas menggunakan lot yang tersedia
-ii.Kendaraan yang boleh masuk hanya Mobil Kecil dan Motor.
-iii.Setiap kendaraan yang masuk di catat Berdasarkan Nomor Polisi-nya.
-iv.Perhitungan biaya parkir adalah per jam, untuk yang baru masuk sudah di hitung 1 jam.
+1. Semua kendaraan bebas menggunakan lot yang tersedia.
+2. Kendaraan yang boleh masuk hanya Mobil Kecil dan Motor.
+3. Setiap kendaraan yang masuk di catat Berdasarkan Nomor Polisi-nya.
+4. Perhitungan biaya parkir adalah per jam, untuk yang baru masuk sudah di hitung 1 jam.
 
 ### Check-out
-i.Setiap kendaraan yang sudah checkout lot tersebut akan available dan bisa di gunakan oleh orang lain.
+1. Setiap kendaraan yang sudah checkout lot tersebut akan available dan bisa di gunakan oleh orang lain.
 
 ### Report
-i.Dibutuhkan laporan jumlah lot yang terisi.
-ii.Dibutuhkan laporan jumlah lot yang tersedia.
-iii.Dibutuhkan laporan jumlah kendaraan berdasarkan nomor kendaraan ganjil dan genap.
-iv.Dibutuhkan laporan jumlah kendaraan berdasarkan jenis kendaraan.
-v.Dibutuhkan laporan jumlah kendaraan berdasarkan warna kendaraan.
+1. Dibutuhkan laporan jumlah lot yang terisi.
+2. Dibutuhkan laporan jumlah lot yang tersedia.
+3. Dibutuhkan laporan jumlah kendaraan berdasarkan nomor kendaraan ganjil dan genap.
+4. Dibutuhkan laporan jumlah kendaraan berdasarkan jenis kendaraan.
+5. Dibutuhkan laporan jumlah kendaraan berdasarkan warna kendaraan.
 
 ## .NET 8 Application
 This is a sample .NET 8 application. The following instructions will guide you through the process of setting up and running the application on your local machine.
